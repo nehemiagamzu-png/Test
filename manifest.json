@@ -1,8 +1,9 @@
 {
-  "name": "Protein Day - מעקב תזונה",
+  "name": "Protein Day",
   "short_name": "Protein Day",
-  "description": "מעקב יומי אחר חלבון, קלוריות וערכים תזונתיים",
-  "start_url": "./index.html",
+  "description": "מעקב יומי אחר חלבון וקלוריות",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0d1117",
@@ -10,19 +11,7 @@
   "lang": "he",
   "dir": "rtl",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ],
-  "screenshots": [],
-  "categories": ["health", "fitness", "food"]
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
 }
